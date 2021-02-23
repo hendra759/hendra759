@@ -45,7 +45,5 @@
 
 <p align="center">
   <a href="https://youtube.com/channel/UC4zF3wbzCN8Ftaqx1VCGcyg"><img src="https://img.shields.io/badge/YouTube-Heikal%20Syah%20Shiddiq-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UC4zF3wbzCN8Ftaqx1VCGcyg" /></a>
-  <a href="mailto:slavyan@secret.fyi"><img src="https://img.shields.io/badge/Gmail-slavyan@secret.fyi-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:slavyan@secret.fyi" /></a>
-  <a href="https://twitter.com/sl_avyan"><img src="https://img.shields.io/twitter/follow/sl_avyan?logo=twitter&style=for-the-badge" /></a> <br>
-  <img src="https://komarev.com/ghpvc/?username=hendra759&label=VIEWS&style=flat-square&color=orange" />
+  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 </p>
