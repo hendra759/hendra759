@@ -46,5 +46,8 @@
 <p align="center">
   <a href="https://youtube.com/channel/UC4zF3wbzCN8Ftaqx1VCGcyg"><img src="https://img.shields.io/badge/YouTube-Heikal%20Syah%20Shiddiq-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UC4zF3wbzCN8Ftaqx1VCGcyg" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
-</p>
+
+</p> align="center">
+ # sosial media
+
 * [`WhatsApp Admin `](https://wa.me/6282147078449)
